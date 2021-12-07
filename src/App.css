@@ -1,0 +1,15 @@
+img {
+  justify-content: center;
+}
+.co{
+  color: green;
+  margin: 10px;
+}
+.coo{
+  color: blue;
+}
+.App {
+  justify-content: center;
+  margin-left: 600px;
+  margin-top: 150px;
+}
